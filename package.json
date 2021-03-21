@@ -1,0 +1,26 @@
+{
+  "name": "after-dark-owl",
+  "displayName": "After Dark Owl",
+  "description": "After Dark Owl",
+  "version": "0.0.1",
+  "publisher": "Abraham",
+  "engines": {
+    "vscode": "^1.54.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "url": "",
+    "type": "git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "After Dark Owl",
+        "uiTheme": "vs-dark",
+        "path": "./themes/After Dark Owl-color-theme.json"
+      }
+    ]
+  }
+}
