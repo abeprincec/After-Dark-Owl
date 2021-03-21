@@ -2,7 +2,7 @@
   "name": "after-dark-owl",
   "displayName": "After Dark Owl",
   "description": "After Dark Owl",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "publisher": "Abraham",
   "engines": {
     "vscode": "^1.54.0"
