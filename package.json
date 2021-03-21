@@ -10,6 +10,7 @@
   "categories": [
     "Themes"
   ],
+  "icon": "AfterDarkOwl.png",
   "repository": {
     "url": "https://github.com/abeprincec/After-Dark-Owl",
     "type": "git"
