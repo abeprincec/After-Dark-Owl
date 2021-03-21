@@ -15,6 +15,14 @@
     "url": "https://github.com/abeprincec/After-Dark-Owl",
     "type": "git"
   },
+  "keywords": [
+    "Theme",
+    "Dark Theme",
+    "Night Owl",
+    "Default Dark",
+    "Owl",
+    "Minimal"
+  ],
   "contributes": {
     "themes": [
       {
