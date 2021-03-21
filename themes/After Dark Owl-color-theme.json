@@ -33,9 +33,9 @@
     "badge.background": "#5f7e97",
     "badge.foreground": "#ffffff",
     "progress.background": "#7e57c2",
-    "breadcrumb.foreground": "#A599E9",
-    "breadcrumb.focusForeground": "#ffffff",
-    "breadcrumb.activeSelectionForeground": "#FFFFFF",
+    "breadcrumb.foreground": "#5F7E97",
+    "breadcrumb.focusForeground": "#D7DBE1",
+    "breadcrumb.activeSelectionForeground": "#D7DBE1",
     "breadcrumbPicker.background": "#001122",
     "list.activeSelectionBackground": "#234d708c",
     "list.activeSelectionForeground": "#ffffff",
@@ -292,7 +292,8 @@
         "entity.other.attribute-name.scss"
       ],
       "settings": {
-        "foreground": "#d7ba7d"
+        // C5E478
+        "foreground": "#C5E477"
       }
     },
     {
