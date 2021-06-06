@@ -768,7 +768,7 @@
     {
       "scope": ["support.class.component.js"],
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#e85792"
       }
     },
     {
